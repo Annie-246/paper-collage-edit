@@ -2,6 +2,13 @@
 
 Edit video người nói **16:9 (YouTube) và 9:16 (TikTok/Reels/Shorts)** theo style **cắt dán giấy xé** (viền giấy trắng, bút sáp, chữ viết tay, stop-motion 12fps, chuyển cảnh xé giấy, ảnh dán băng dính, tách nền người) — hoàn toàn bằng Python + ffmpeg.
 
+## Demo
+![demo](docs/demo-skool.gif)
+
+🎬 **Video demo đầy đủ (79s, không tiếng):** [docs/demo-skool.mp4](docs/demo-skool.mp4) — cắt từ video giới thiệu cộng đồng XMAI – AI Heroes Club trên Skool, edit hoàn toàn bằng skill này.
+
+Kết quả `scripts/template.py` ở hai khổ (trái 16:9, phải 9:16):
+
 ![16:9](docs/demo-16x9.jpg)
 ![9:16](docs/demo-9x16.jpg)
 
